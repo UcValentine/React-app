@@ -1,0 +1,31 @@
+
+.font-card {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+ }
+ .font-card p{
+    padding-right: 40px;
+ }
+.resizer {
+    margin: 0;
+    padding: 20px 0;
+    list-style: none;
+    font-size: 24px;
+    line-height: 27px;
+    font-weight: bold;
+  }
+  .fontSize{
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+  }
+  #close{
+    float: right;
+  }
+  .close-btn{
+    border: none;
+    background: none;
+    cursor:pointer; 
+    float: left;
+  }
